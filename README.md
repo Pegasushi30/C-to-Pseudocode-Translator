@@ -1,12 +1,20 @@
 # CSE-351-C_to_Pseudocode_Translator
 CSE 351 REPORT
-TODO LIST
+
+TODO LIST is the "cse351spring2023TermProject.pdf" which is also included in the "351Project" file.
+*********************************************************************************
 1)DONE
+
 2)DONE
+
 3)DONE
+
 4)DONE
+
 5)DONE
+
 6)I didn't do the check undeclared variables in input text bonus
+
 7)Nested Loop and Nested If statements are being checked so I did this bonus part
 I have added example inputs from the VSE 351 project document into the file.
 I've tried those inputs to test my yacc and lex.
