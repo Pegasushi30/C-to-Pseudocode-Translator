@@ -3,26 +3,21 @@ This project is a C to pseudocode translator designed to convert simple C progra
 
 # Features:
 ```
-```
 Function Recognition: The translator identifies functions within the input C code and converts them into pseudocode format.
 It handles function headers, parameters, and bodies appropriately.
-```
-```
+
 Function Calls: Function calls, including standard library functions like printf and scanf,
 are recognized and translated into pseudocode. User-defined function calls are also supported.
-```
-```
+
 Return Statements: Return statements within functions are translated into pseudocode format. 
 translator assigns returned values to the corresponding function names.
-```
-```
+
 Loop Handling: C for loops are recognized and converted into pseudocode representations.
 Assignment, comparison, and increment sections of the loops are appropriately translated.
-```
-```
+
 Conditional Statements: If-else conditions are supported in the translation process.
 The translator converts conditions and nested conditions into pseudocode format.
-```
+
 ```
 
 # Usage:
