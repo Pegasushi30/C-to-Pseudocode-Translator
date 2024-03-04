@@ -20,8 +20,7 @@ The translator will generate the pseudocode representation of the C code and dis
 Example:
 Consider the following C code:
 
-c
-Copy code
+```bash
 #include <stdio.h>
 
 int main() {
@@ -30,11 +29,11 @@ int main() {
         printf("x is greater than 5\n");
     }
     return 0;
-}
+}```
+
 The translator will convert it into pseudocode as follows:
 
-plaintext
-Copy code
+```bash
 FUNCTION main
 x = 10
 IF x > 5 THEN
@@ -42,5 +41,6 @@ IF x > 5 THEN
 ENDIF
 RETURN 0
 END FUNCTION main
+```
 Contributing:
 Contributions to the project are welcome. If you encounter any bugs or have suggestions for improvements, please open an issue on the GitHub repository.
