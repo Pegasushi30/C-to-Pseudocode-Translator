@@ -1,2 +1,0 @@
-# C to Pseudocode Translator
-
