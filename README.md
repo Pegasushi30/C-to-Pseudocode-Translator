@@ -3,15 +3,20 @@ This project is a C to pseudocode translator designed to convert simple C progra
 
 # Features:
 ```
-Function Recognition: The translator identifies functions within the input C code and converts them into pseudocode format. It handles function headers, parameters, and bodies appropriately.
+Function Recognition: The translator identifies functions within the input C code and converts them into pseudocode format.
+It handles function headers, parameters, and bodies appropriately.
 
-Function Calls: Function calls, including standard library functions like printf and scanf, are recognized and translated into pseudocode. User-defined function calls are also supported.
+Function Calls: Function calls, including standard library functions like printf and scanf,
+are recognized and translated into pseudocode. User-defined function calls are also supported.
 
-Return Statements: Return statements within functions are translated into pseudocode format. The translator assigns returned values to the corresponding function names.
+Return Statements: Return statements within functions are translated into pseudocode format. 
+translator assigns returned values to the corresponding function names.
 
-Loop Handling: C for loops are recognized and converted into pseudocode representations. Assignment, comparison, and increment sections of the loops are appropriately translated.
+Loop Handling: C for loops are recognized and converted into pseudocode representations.
+Assignment, comparison, and increment sections of the loops are appropriately translated.
 
-Conditional Statements: If-else conditions are supported in the translation process. The translator converts conditions and nested conditions into pseudocode format.
+Conditional Statements: If-else conditions are supported in the translation process.
+The translator converts conditions and nested conditions into pseudocode format.
 ```
 
 # Usage:
@@ -19,7 +24,8 @@ Conditional Statements: If-else conditions are supported in the translation proc
 Clone the project repository from GitHub to your local machine.
 Ensure you have a C file ready for translation.
 Run the translator program and provide the path to the C file as input.
-The translator will generate the pseudocode representation of the C code and display it either on the console or in an output file.
+The translator will generate the pseudocode representation of the C code and
+display it either on the console or in an output file.
 ```
 
 Example:
